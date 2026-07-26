@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# hide code and data
+data/
+databases/
+
+experiments/
+
+# hide data analysis
+data_analysis/
