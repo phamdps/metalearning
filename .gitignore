@@ -225,3 +225,8 @@ experiments/
 
 # hide data analysis
 data_analysis/
+
+# Git factal bad object __init__.py error; fix at follows
+# find .git/refs -name "__init__.py" -delete
+# git fetch --prune
+# git fsck --full
