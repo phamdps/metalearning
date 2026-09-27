@@ -12,7 +12,8 @@
 
 ## 📌 Overview
 
-This repository contains the complete datasets, experimental codes, empirical analysis, and execution scripts for evaluating our meta-learning approach applied to long-term groundwater level forecasting. The groundwater level data used in this work was selected with the support of experts from BRGM (French Geological Survey). It contains measurements from 12 piezometers located in two regions of France: Région 11 Île-de-France and Région 24 Centre-Val de Loire 1. The piezometers were chosen to represent the diversity of hydrogeological dynamics over several decades, thus supporting long-term forecasting.
+This repository contains the complete datasets, experimental codes, empirical analysis, and execution scripts for evaluating our meta-learning approach applied to long-term groundwater level forecasting. The groundwater level data used in this work was selected with the support of experts from BRGM (French Geological Survey). It contains measurements from 12 piezometers located in two regions of France: Région 11 Île-de-France and Région 24 Centre-Val de Loire 1. The piezometers were chosen to represent the diversity of hydrogeological dynamics over several decades, thus supporting long-term forecasting. This study presents a proof of concept for meta-learning applied to groundwater level forecasting,
+focusing on task-level decision support and preparing for generalisation to all monitoring sites.
 
 ---
 
